@@ -23,6 +23,10 @@ Este repositório foi criado para realizar a atividade proposta pelo professor, 
 
 Neste repositório serão realizados testes de versionamento e integração de código, simulando o trabalho em equipe utilizando o GitHub.
 
+## Teste de Pull Request
+
+Alteração realizada na branch teste-branch para simular colaboração.
+
 ---
 
 ## Observação
